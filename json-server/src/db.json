@@ -11,6 +11,29 @@
       "status": true,
       "datePublished": 1683724432114,
       "id": 1
+    },
+    {
+      "firstName": "Trayan",
+      "lastName": "Iliev",
+      "email": "trayan@fmi.uni-sofia.bg",
+      "username": "trayan",
+      "password": "trayan123",
+      "role": 0,
+      "profilePicture": "https://avatars.githubusercontent.com/u/8014435?v=4",
+      "status": true,
+      "datePublished": 1684338088182,
+      "id": 2
+    },
+    {
+      "firstName": "aaa",
+      "lastName": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "role": 0,
+      "status": false,
+      "datePublished": 1684338304279,
+      "id": 3
     }
   ],
   "recipes": []

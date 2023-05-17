@@ -51,6 +51,11 @@ const routes: Routes = [
     component: RecipesComponent,
     canActivate: [LoginGuard],
   },
+  {
+    path: '**',
+    redirectTo: '/home',
+    pathMatch: 'full',
+  },
 ];
 
 @NgModule({
